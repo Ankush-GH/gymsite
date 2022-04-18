@@ -1,0 +1,118 @@
+.signup {
+  width: 100vw;
+  min-height: 90vh;
+  background-color: black;
+  color: white;
+
+  .header {
+    padding-top: 5rem;
+
+    span {
+      margin-left: 8rem;
+      font-size: 4rem;
+      font-weight: 700;
+    }
+  }
+
+  .form {
+    margin-top: 10rem;
+    margin-left: 8rem;
+
+    label {
+      display: block;
+      font-weight: 700;
+      font-size: 2rem;
+    }
+
+    input {
+      min-width: 18rem;
+      min-height: 3rem;
+      padding: 0.5rem;
+      border: 2px solid black;
+      font-size: 1.5rem;
+      margin-top: 0.5rem;
+    }
+
+    textarea {
+      min-width: 25rem;
+      max-height: 10rem;
+      border: 2px solid black;
+    }
+
+    button {
+      width: 12rem;
+      height: 3rem;
+      color: black;
+      font-weight: 700;
+      background-color: rgb(244, 114, 135);
+      border-radius: 0.5rem;
+      border: none;
+      margin-bottom: 5rem;
+      margin-left: 8rem;
+      box-shadow: 10px 5px 5px rgb(232, 131, 148);
+    }
+
+    button:hover {
+      background-color: crimson;
+      box-shadow: 10px 5px 5px crimson;
+    }
+
+    .pForFname {
+      color: red;
+    }
+    .pForLname {
+      color: red;
+    }
+    .pForAge {
+      color: red;
+    }
+    .pForEmail {
+      color: red;
+    }
+    .pForMessage {
+      color: red;
+    }
+  }
+
+  .TY {
+    font-weight: 700;
+    margin-top: 10rem;
+    margin-left: 10rem;
+    color: rgb(136, 63, 107);
+    animation: myAnim 1s ease 0s 1 normal forwards;
+  }
+
+  @keyframes myAnim {
+    0% {
+      transform: scale(0.5);
+    }
+  
+    100% {
+      transform: scale(1);
+    }
+  }
+
+  .aboutGym {
+    display: flex;
+    flex-wrap: wrap;
+
+    .wDays {
+      margin: 5rem 10rem;
+
+      p {
+        margin-top: 2rem;
+        font-weight: 700;
+      }
+    }
+
+    .address {
+      margin: 5rem 10rem;
+
+      p {
+        margin-top: 2rem;
+        font-weight: 500;
+        font-size: 1.5rem;
+      }
+    }
+  }
+}

@@ -1,0 +1,71 @@
+.schedule {
+  width: 100vw;
+  min-height: 90vh;
+  background-color: black;
+  color: white;
+
+  .header {
+    padding-top: 5rem;
+
+    span {
+      margin-left: 8rem;
+      font-size: 4rem;
+      font-weight: 700;
+    }
+  }
+
+  .days {
+    display: flex;
+    flex-wrap: wrap;
+
+    .monday {
+      margin: 5rem 15rem;
+
+      h1 {
+        margin: 2rem 0rem;
+      }
+    }
+    .tuesday {
+      margin: 5rem 15rem;
+
+      h1 {
+        margin: 2rem 0rem;
+      }
+    }
+    .wednesday {
+      margin: 5rem 15rem;
+
+      h1 {
+        margin: 2rem 0rem;
+      }
+    }
+    .thursday {
+      margin: 5rem 15rem;
+
+      h1 {
+        margin: 2rem 0rem;
+      }
+    }
+    .friday {
+      margin: 5rem 15rem;
+
+      h1 {
+        margin: 2rem 0rem;
+      }
+    }
+    .saturday {
+      margin: 5rem 15rem;
+
+      h1 {
+        margin: 2rem 0rem;
+      }
+    }
+    .sunday {
+      margin: 5rem 15rem;
+
+      h1 {
+        margin: 2rem 0rem;
+      }
+    }
+  }
+}

@@ -1,0 +1,37 @@
+.priceplans {
+  width: 100vw;
+  height: 90vh;
+  background-color: black;
+  color: white;
+
+  .header {
+    padding-top: 5rem;
+
+    span {
+      margin-left: 8rem;
+      font-size: 4rem;
+      font-weight: 700;
+    }
+  }
+
+  .plans {
+    margin-top: 8rem;
+    display: flex;
+
+    .left {
+      margin-left: 15rem;
+
+      h1{
+        margin: 2rem 0rem;
+      }
+    }
+
+    .right {
+      margin-left: 30rem;
+
+      h1{
+        margin: 2rem 0rem;
+      }
+    }
+  }
+}
