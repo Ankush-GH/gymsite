@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/gymsite/static/css/main.78c2e09b.css",
+    "main.js": "/gymsite/static/js/main.50b3f986.js",
+    "static/media/lifting.jpg": "/gymsite/static/media/lifting.d9ce23fdc423bc1a2444.jpg",
+    "static/media/cardio.png": "/gymsite/static/media/cardio.5550ce41daf2b57d061e.png",
+    "static/media/yoga.jpg": "/gymsite/static/media/yoga.367bae45c83bf7562785.jpg",
+    "static/media/bodybuilding.jpg": "/gymsite/static/media/bodybuilding.05d0afea5bea9da99a84.jpg",
+    "static/media/boxing.webp": "/gymsite/static/media/boxing.aacaa3f0f316e2c0c8d4.webp",
+    "static/media/bg.webp": "/gymsite/static/media/bg.c3f43755312e8af9592d.webp",
+    "static/media/trainer1.jpg": "/gymsite/static/media/trainer1.f84bf10c61ba796e7c84.jpg",
+    "static/media/calisthenics.jpg": "/gymsite/static/media/calisthenics.7cb282fc0c01c11020bd.jpg",
+    "static/media/trainer2.jpeg": "/gymsite/static/media/trainer2.c52ce817b00d7a8aac97.jpeg",
+    "static/media/trainer3.jpg": "/gymsite/static/media/trainer3.faf4d6fbd1a46243d7db.jpg",
+    "index.html": "/gymsite/index.html",
+    "main.78c2e09b.css.map": "/gymsite/static/css/main.78c2e09b.css.map",
+    "main.50b3f986.js.map": "/gymsite/static/js/main.50b3f986.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78c2e09b.css",
+    "static/js/main.50b3f986.js"
+  ]
+}
