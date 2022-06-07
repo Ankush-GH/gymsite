@@ -1,9 +1,9 @@
 import React from "react";
 import { Link } from "react-router-dom";
 
-import "./Home.scss";
+import "./HomePage.scss";
 
-const Home = () => {
+const HomePage = () => {
   return (
     <div className="home">
       <div className="head1">
@@ -16,4 +16,4 @@ const Home = () => {
   );
 };
 
-export default Home;
+export default HomePage;

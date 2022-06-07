@@ -2,12 +2,12 @@ import { Switch, Route } from "react-router-dom";
 
 import "./App.scss";
 import Topbar from "./components/topbar/Topbar";
-import Home from "./components/home/Home";
 import Classes from "./components/classes/Classes";
 import Trainers from "./components/trainers/Trainers";
 import PricePlans from "./components/price&plans/PricePlans";
 import Schedule from "./components/schedule/Schedule";
 import Signup from "./components/signup/Signup";
+import HomePage from "./components/home/HomePage";
 
 function App() {
   return (
@@ -15,7 +15,7 @@ function App() {
       <Topbar />
       <Switch>
         <Route exact path="/">
-          {<Home />}
+          {<HomePage />}
         </Route>
         <Route exact path="/classes">
           {<Classes />}

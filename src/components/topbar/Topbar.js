@@ -8,7 +8,7 @@ const Topbar = () => {
   return (
     <div className="topbar">
       <div className="header">
-        <Link to="">
+        <Link to="/">
           <h1>The Gym</h1>
         </Link>
       </div>
