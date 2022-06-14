@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/gymsite/static/css/main.78c2e09b.css",
-    "main.js": "/gymsite/static/js/main.50b3f986.js",
+    "main.css": "/gymsite/static/css/main.3c29bc3a.css",
+    "main.js": "/gymsite/static/js/main.ea770b99.js",
     "static/media/lifting.jpg": "/gymsite/static/media/lifting.d9ce23fdc423bc1a2444.jpg",
     "static/media/cardio.png": "/gymsite/static/media/cardio.5550ce41daf2b57d061e.png",
     "static/media/yoga.jpg": "/gymsite/static/media/yoga.367bae45c83bf7562785.jpg",
@@ -13,11 +13,11 @@
     "static/media/trainer2.jpeg": "/gymsite/static/media/trainer2.c52ce817b00d7a8aac97.jpeg",
     "static/media/trainer3.jpg": "/gymsite/static/media/trainer3.faf4d6fbd1a46243d7db.jpg",
     "index.html": "/gymsite/index.html",
-    "main.78c2e09b.css.map": "/gymsite/static/css/main.78c2e09b.css.map",
-    "main.50b3f986.js.map": "/gymsite/static/js/main.50b3f986.js.map"
+    "main.3c29bc3a.css.map": "/gymsite/static/css/main.3c29bc3a.css.map",
+    "main.ea770b99.js.map": "/gymsite/static/js/main.ea770b99.js.map"
   },
   "entrypoints": [
-    "static/css/main.78c2e09b.css",
-    "static/js/main.50b3f986.js"
+    "static/css/main.3c29bc3a.css",
+    "static/js/main.ea770b99.js"
   ]
 }
